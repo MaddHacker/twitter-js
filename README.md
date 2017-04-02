@@ -54,3 +54,17 @@ Just ping me at:
 	hacker (a) maddhacker dot com
 	
 Enjoy!
+
+## Getting Started
+- Install [the npm](https://www.npmjs.com/package/streaming-twitter) in your project: `npm install --save streaming-twitter`
+- Require the library where needed: `const twitter = require('streaming-twitter');`
+- Stream Twitter.
+
+# Slack
+This is one of several projects that are in the works, so feel free to reach out on [Slack](https://maddhacker.slack.com/).  Please email `slack at maddhacker dot com` for an invite.
+
+# Issues
+Please use the [Issues tab](../../issues) to report any problems or feature requests.
+
+# Change Log
+All change history can be found in the [CHANGELOG.md](CHANGELOG.md) file.
