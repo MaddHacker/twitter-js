@@ -18,9 +18,9 @@
 
 require('../../lib/twitter');
 
-describe('Twitter (Unit)', function () {
-    describe('TBD', function () {
-        it('no unit tests needed yet', function () {
+describe('Twitter (Unit)', () => {
+    describe('TBD', () => {
+        it('no unit tests needed yet', () => {
             expect(true).toBe(true);
         });
     });
