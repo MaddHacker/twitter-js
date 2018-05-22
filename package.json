@@ -24,6 +24,10 @@
     "streaming api"
   ],
   "author": "MaddHacker <hacker@maddhacker.com> (https://www.maddhacker.com)",
+  "contributors": [
+    "MaddHacker <hacker@maddhacker.com> (https://www.maddhacker.com)",
+    "theFieryDev <thefierydev@gmail.com> (https://www.thefierydev.com)"
+  ],
   "license": "Apache-2.0",
   "homepage": "https://github.com/MaddHacker/twitter-js#readme",
   "engines": {
@@ -35,7 +39,7 @@
     "output-manager": "^2.1.0"
   },
   "devDependencies": {
-    "jest": "^19.0.2"
+    "jest": "^22.4.4"
   },
   "jest": {
     "verbose": true
