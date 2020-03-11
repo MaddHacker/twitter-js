@@ -10,9 +10,9 @@ JS Implementation for the Twitter Public Streaming API.
 
 [![Test Coverage](https://codeclimate.com/github/MaddHacker/twitter-js/badges/coverage.svg)](https://codeclimate.com/github/MaddHacker/twitter-js/coverage)
 
-[![Dependency Status](https://david-dm.org/MaddHacker/streaming-twitter/status.svg)](https://david-dm.org/MaddHacker/streaming-twitter)
+[![Dependency Status](https://david-dm.org/MaddHacker/twitter-js/status.svg)](https://david-dm.org/MaddHacker/twitter-js)
 
-[![npm Version](https://badge.fury.io/js/streaming-twitter.svg)](https://badge.fury.io/js/streaming-twitter)
+[![npm Version](https://badge.fury.io/js/twitter-js.svg)](https://badge.fury.io/js/twitter-js)
 
 # Getting Started
 First you need to create a TwitterPublicStream
